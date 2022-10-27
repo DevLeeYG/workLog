@@ -12,3 +12,12 @@
  셀렉트 분류 input탭 에서 서비스중지된 사이트 제거
  head.jsp 에서 양양 제거
  셀렉트 input 분류탭 위치 
+
+
+
+<details>
+    <summary>자세히</summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+
+</details>
