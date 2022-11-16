@@ -1,5 +1,11 @@
 # workLog
 
+
+<details>
+    <summary>2022-11-09</summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+
 <h1> 내역서 다운로드 횟수 표시 </h1>
 
 <div>CoopStatementFIle.popup 에서 다운로드 클릭 하면 다운로드와 동시에
@@ -14,3 +20,5 @@ BID_ID와 COID 넘버로 내역서 확인을 한다음 DW_FILE_ctn 의 카운트
 TB_COOP_BID 에 칼럼을 추가합시다
  
 </div>
+ 
+</details>
