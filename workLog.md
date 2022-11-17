@@ -114,3 +114,16 @@
     coid 넘버를 추출해 coops 의 바뀌는 객체에 따라 정렬이 되게 해야한다.
  
 </details>
+
+
+<details>
+    <summary>2022-11-09</summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+
+
+    todo
+    - 실db 변경
+    - 다운로드 수 테스트
+ 
+</details>
