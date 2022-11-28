@@ -22,3 +22,23 @@ TB_COOP_BID 에 칼럼을 추가합시다
 </div>
  
 </details>
+
+
+<details>
+    <summary>2022-11-09</summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+라이브러리를 설치햇는데 빌드가 되지않았다
+오류결과는 라이브러리 설치가 되지않는 문제였고
+도커에서 npm ci 로 처리하고있었고 ci 는 pakage.lock 을 관리한다
+yarn add는 package.lock 을 관여하지 않아
+
+npm i로 lock을 업데이트 한후 빌드한뒤 잘 되었다
+
+
+
+
+ 
+</div>
+ 
+</details>
